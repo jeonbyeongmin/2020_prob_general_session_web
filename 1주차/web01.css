@@ -1,7 +1,7 @@
 <style media="screen">
   #student_system{
     font-family: sans-serif;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
   }
   a{
     color: black;
@@ -15,7 +15,7 @@
   }
   .text{
     margin-left: 50px;
-  }
+ }
   td{
     border : 1px solid black;
     padding-left: 20px;
