@@ -1,0 +1,40 @@
+li{
+    margin-bottom : 15px;
+}
+
+#head{
+    background-color: aqua;
+}
+
+#head:hover{
+    background-color: red;
+
+}
+td, th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 14px;
+}
+table, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.chk{
+    width: 100px;
+}
+.name{
+    width: 90px;
+}
+.num{
+    width: 90px;
+}
+.age{
+    width: 80px;
+}
+.grade{
+    width: 60px;
+}
+.ex{
+    width: 80px;
+}
